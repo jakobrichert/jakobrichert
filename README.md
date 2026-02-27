@@ -4,7 +4,7 @@ Systems engineer based in Copenhagen. I like building things that sit close to t
 
 Currently at **DLF Seeds**, leading R&D system consolidation across 79 crop species — migrating decades of legacy breeding data into a unified platform, and building React/Next.js middleware to integrate laboratory and field equipment.
 
-Previously rebuilt the IoT platform at **Arctic Spas** from the ground up — embedded Linux firmware (Yocto), MQTT infrastructure, and manufacturing automation for 50,000+ connected devices.
+Previously helped rebuild the IoT platform at **Arctic Spas** — embedded Linux firmware (Yocto), MQTT infrastructure, and manufacturing automation for 50,000+ connected devices.
 
 ## What I'm working on
 
