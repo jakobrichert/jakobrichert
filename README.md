@@ -64,8 +64,8 @@ Interactive 3D step-by-step build guide for a toddler-safe planter gate. **Three
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jakobrichert&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakobrichert&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jakobrichert&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jakobrichert&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
 </p>
 
 <p align="center">
@@ -73,7 +73,7 @@ Interactive 3D step-by-step build guide for a toddler-safe planter gate. **Three
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jakobrichert&theme=tokyonight&no-frame=true&column=7" />
+  <img src="https://github-trophies.vercel.app/?username=jakobrichert&theme=tokyonight&no-frame=true&column=7" />
 </p>
 
 ---
