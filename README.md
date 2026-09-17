@@ -17,7 +17,6 @@ scientific computing.
 - 🏢 Currently at **Teletech**
 - 🧵 On the side I run **[Crossthread](https://crossthread.ca)**, a small product studio
 - 🌱 Open-source tools for plant and animal breeding
-- 🎓 Computing Science, University of Alberta
 
 ## 🧵 Building at Crossthread
 
@@ -139,4 +138,4 @@ device hang when opening from a forked process
 
 ---
 
-<p align="center"><sub>Originally from Alberta, Canada. Now in Denmark.</sub></p>
+<p align="center"><sub>Originally from Canada, now in Denmark.</sub></p>
