@@ -1,82 +1,142 @@
-# Hey, I'm Jakob
+<h1 align="center">Hi, I'm Jakob 👋</h1>
 
-Systems engineer based in Copenhagen. I like building things that sit close to the hardware — embedded systems, IoT platforms, data pipelines, scientific computing.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=7AA2F7&center=true&vCenter=true&width=620&lines=Software+engineer+close+to+the+hardware;IoT+%C2%B7+data+pipelines+%C2%B7+scientific+computing;Building+Crossthread+on+the+side" alt="Software engineer close to the hardware" />
+</p>
 
-Currently at **DLF Seeds**
+<p align="center">
+  <a href="https://crossthread.ca"><img src="https://img.shields.io/badge/Crossthread-crossthread.ca-7aa2f7?style=for-the-badge" alt="crossthread.ca" /></a>
+  <img src="https://img.shields.io/badge/Based_in-Denmark_%F0%9F%87%A9%F0%9F%87%B0-c8102e?style=for-the-badge" alt="Based in Denmark" />
+  <img src="https://img.shields.io/badge/From-Canada_%F0%9F%87%A8%F0%9F%87%A6-d52b1e?style=for-the-badge" alt="From Canada" />
+</p>
 
+I'm a software engineer in the Copenhagen area. I like building things that sit
+close to the hardware: embedded systems, IoT platforms, data pipelines and
+scientific computing.
 
-## Tech Stack
+- 🏢 Currently at **Teletech**
+- 🧵 On the side I run **[Crossthread](https://crossthread.ca)**, a small product studio
+- 🌱 Open-source tools for plant and animal breeding
+- 🎓 Computing Science, University of Alberta
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Structured Text](https://img.shields.io/badge/-Structured%20Text%20(PLC)-FF6F00?style=flat-square)
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white)
-![Yocto](https://img.shields.io/badge/-Yocto%20Linux-2B2D42?style=flat-square&logo=linux&logoColor=white)
-
-## What I'm Working On
+## 🧵 Building at Crossthread
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [openblup](https://github.com/jakobrichert/openblup)
-Open-source REML and BLUP engine in **Rust** for plant and animal breeding. Modern mixed-model solver for quantitative genetics.
+### [Inventyl](https://inventyl.com)
+Camera-first inventory for small businesses. Scan barcodes to take stock, snap
+a vendor invoice to restock, print labels from a drag-and-drop designer.
 
-</td>
-<td width="50%">
-
-### [OpenVoice V2 on Tenstorrent](https://github.com/tenstorrent/tt-metal/pull/36286)
-Porting the OpenVoice V2 voice cloning model to Tenstorrent's **TTNN** framework. Also contributed a [device hang fix](https://github.com/tenstorrent/tt-metal/pull/24330) to tt-metal.
+<sub>React · TypeScript · Node · PostgreSQL · AWS</sub>
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [space-colonization](https://github.com/jakobrichert/space-colonization)
-Interactive 3D procedural tree generation using the space colonization algorithm. **C** + raylib.
+### [Pasture Path](https://pasturepath.com)
+Farm management plus a local marketplace. Track fields, crops, harvests and
+livestock, and sell straight to customers nearby.
 
-</td>
-<td width="50%">
-
-### [planter-gate-3d](https://github.com/jakobrichert/planter-gate-3d)
-Interactive 3D step-by-step build guide for a toddler-safe planter gate. **Three.js**.
+<sub>React · TypeScript · Django · PostgreSQL · AWS</sub>
 
 </td>
 </tr>
 </table>
 
-## GitHub Stats
+## 🔬 Open source
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [openblup](https://github.com/jakobrichert/openblup)
+REML and BLUP in **Rust**: a modern mixed-model engine for plant and animal
+breeding.
+
+</td>
+<td width="50%" valign="top">
+
+### [crisprgarden](https://github.com/jakobrichert/crisprgarden)
+An open platform for plant gene editing. Design guide RNAs, track experiments,
+follow protocols and share results. **TypeScript**.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [adam-gui](https://github.com/jakobrichert/adam-gui)
+Desktop GUI with 3D visualisations for the ADAM breeding simulator from Aarhus
+University. **Python**.
+
+</td>
+<td width="50%" valign="top">
+
+### [space-colonization](https://github.com/jakobrichert/space-colonization)
+Procedural 3D trees grown with the space colonization algorithm
+(Runions et al., 2007). **C** + raylib.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [terminal-roulette](https://github.com/jakobrichert/terminal-roulette)
+A random terminal theme on every new shell: 45 themes covering colours,
+cursor, font, transparency and prompt. **Shell**.
+
+</td>
+<td width="50%" valign="top">
+
+### [planter-gate-3d](https://github.com/jakobrichert/planter-gate-3d)
+An interactive 3D, step-by-step build guide for a toddler-safe planter gate.
+**Three.js**.
+
+</td>
+</tr>
+</table>
+
+### ⚡ Tenstorrent bounties
+
+Two paid bounties on [tt-metal](https://github.com/tenstorrent/tt-metal): a port
+of the OpenVoice V2 voice-cloning model to **TTNN**
+([#36286](https://github.com/tenstorrent/tt-metal/pull/36286)), and a fix for a
+device hang when opening from a forked process
+([#24330](https://github.com/tenstorrent/tt-metal/pull/24330)).
+
+## 🛠️ Tech
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jakobrichert&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jakobrichert&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+  <img src="https://skillicons.dev/icons?i=py,rust,c,ts,js,php,kotlin&perline=7" alt="Python, Rust, C, TypeScript, JavaScript, PHP, Kotlin" /><br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,flask,threejs,godot&perline=7" alt="React, Next.js, Node, Django, Flask, Three.js, Godot" /><br />
+  <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,docker,postgres,nginx,linux,githubactions&perline=8" alt="AWS, Azure, Cloudflare, Docker, PostgreSQL, nginx, Linux, GitHub Actions" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakobrichert&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white" alt="MQTT" />
+  <img src="https://img.shields.io/badge/Yocto_Linux-2B2D42?style=flat-square&logo=linux&logoColor=white" alt="Yocto Linux" />
+  <img src="https://img.shields.io/badge/Structured_Text_(PLC)-FF6F00?style=flat-square" alt="Structured Text (PLC)" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+</p>
+
+## 📈 Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=jakobrichert&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=jakobrichert&theme=tokyonight&no-frame=true&column=7" />
+  <img src="https://github-trophies.vercel.app/?username=jakobrichert&theme=tokyonight&no-frame=true&column=7" alt="GitHub trophies" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jakobrichert/jakobrichert/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/jakobrichert/jakobrichert/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  </picture>
 </p>
 
 ---
 
-<p align="center">
-  CS from the University of Alberta. Originally from Canada, now in Denmark.
-</p>
+<p align="center"><sub>Originally from Alberta, Canada. Now in Denmark.</sub></p>

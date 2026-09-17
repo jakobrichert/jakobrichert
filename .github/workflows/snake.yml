@@ -1,0 +1,33 @@
+# Draws the contribution graph as a snake and publishes the SVGs to the
+# `output` branch, which the README embeds.
+name: Contribution snake
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: Update contribution snake
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
